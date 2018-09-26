@@ -1,0 +1,15 @@
+Hi i am Network-attached storage, popularly known as NAS. My work is to store data (in form of filesystem) in my stomach. Different servers connected to my network, feed me every minute. I do not have any partiality. I treat all the servers connected to my network in the same way permitting to view other server's data.
+
+I have been used in DSL in two forms. One form is to store over 30 test environments data and other form is store production data. My children (sftp, log, app paths) are also serving in dsl. As my children are a bit selfish, they accept feed only through single server unlike me.
+
+Now i should mention my family (NAS and sftp, log, app) problem. We do not have any digestive system like you humans. We only know how to accept and store data in our stomach for years. For this reason we are becoming fat day by day. Each and everything has a limit. In the same way, we too have some limit. If you try to feed us over our capacity, our mouths gets closed automatically resulting in issues in your application. 
+
+Rem and Prod Support teams used to clean our stomach (archive old files/directories) manually, when ever we shout by throwing alerts/INs. When we are kind hearted to accept your feed, why dont you have concern regarding our health. 
+
+All thanks to Devops culture for designing a digestive system (automatic cleanup scripts) for me and for my family. This digestive system works by following a workout plan(config files with paths and their purge policy). This digestive system is smart enough to perform different kind of exercises on different parts of our stomach (performs different archival on different paths which are mentioned in config files).
+
+With this digestive system, I am (NAS) able to reduce and maintain my weight to 70% usage(from over 90% usage) in test/prod environments and my childrens' to 40% usage without any manual efforts. Also there is no requirement for us to throw 30-40 alerts/INs per month. 
+
+With further upgrade to my digestive system and workout plan, i am confident enough to reduce and maintain my weight to 50%
+
+Fitness is necessary not only to humans but also to filesystems...! 
